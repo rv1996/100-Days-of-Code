@@ -72,7 +72,7 @@
 
 ---
 
-### **Day 1**
+### **Day 1** DONE
 #### Tasks
 **DSA :**
 > Data Structure(Compulsory)
@@ -82,10 +82,6 @@
 > Algorithms(Optional)
 - [x] [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 - [x] [Majority Elementy](https://practice.geeksforgeeks.org/problems/majority-element/0)
-> GSOC
-- [x] Find an Organisation to contrinute to, you can [this](https://docs.google.com/spreadsheets/d/1pAHnRLsRMe2AmXTWcy1QQ_IGwtIBPgymj2QQn1fZiUI/edit#gid=0) data to select an organisation.
-- [x] Find some `good first issues` to solve, you can also cotribute in Documentation of the Organisation.
-> **IDIOT BOX** : Janmaijai
 
 ---
 
